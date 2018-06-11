@@ -1,0 +1,6 @@
+10 ten
+11 eleven
+12 twelve
+27 twenty seven
+38 thirty eight
+45 forty five
